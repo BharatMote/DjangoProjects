@@ -1,0 +1,3 @@
+http://127.0.0.1:8000/api/get-student/(id)/   ---------student (1) -id
+http://127.0.0.1:8000/api/get-all-students/  ------ get all student from database
+http://127.0.0.1:8000/api/create-student/     -----to create student in database 
